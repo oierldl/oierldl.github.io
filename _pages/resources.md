@@ -9,8 +9,8 @@ author_profile: true
 The vSTS dataset aims to become a standard benchmark to test the contribution of visual information when evaluating the similarity of sentences and the quality of multimodal representations, allowing to test the complementarity of visual and textual information for improved language understanding.
 
 - **website**: [](https://oierldl.github.io/vsts/)
-- **github**: https://github.com/oierldl/vsts
-- **paper**: Evaluating Multimodal Representations on Visual Semantic Textual Similarity
+- **github**: [](https://github.com/oierldl/vsts)
+- **paper**: [Evaluating Multimodal Representations on Visual Semantic Textual Similarity](https://www.semanticscholar.org/paper/Evaluating-Multimodal-Representations-on-Visual-Lacalle-Salaberria/b792296bfe5a3b25c5b15d6dd73f5e68314208de)
 
 ## Older resources
 - [Sensecorpus](http://ixa2.si.ehu.eus/ixa-z-resources/sensecorpus/), a corpus of examples from the web for all nouns in WordNet 1.6. The senses can be easily mapped to other WN versions [here](http://www.lsi.upc.es/~nlp/tools/mapping.html). (Smaller subset used in our EMNLP 2004 paper here).
