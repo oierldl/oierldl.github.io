@@ -9,42 +9,25 @@ redirect_from:
 
 
 ## Graduate courses
+### 2023-2024
+- [Natural Language Processing](https://www.ehu.eus/en/web/graduak/bachelors-degree-artificial-intelligence/credits-and-subjects?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20230&p_ciclo=X&p_curso=3&p_cod_asignatura=26227). Artificial Intelligence Degree. University of the Basque Country (UPV/EHU).
+- [Advanced Techniques in Natural Language Processing](https://www.ehu.eus/en/web/graduak/bachelors-degree-artificial-intelligence/credits-and-subjects?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20230&p_ciclo=X&p_curso=4&p_cod_asignatura=28285). Artificial Intelligence Degree. University of the Basque Country (UPV/EHU).  
+- [Text Mining](https://www.ehu.eus/en/web/graduak/bachelors-degree-artificial-intelligence/credits-and-subjects?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20230&p_ciclo=X&p_curso=3&p_cod_asignatura=28275) Artificial Intelligence Degree. University of the Basque Country (UPV/EHU).
+  
+### 2022-2023
+- [Text Mining](https://www.ehu.eus/en/web/graduak/bachelors-degree-artificial-intelligence/credits-and-subjects?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20230&p_ciclo=X&p_curso=3&p_cod_asignatura=28275) Degree in Artificial Intelligence. University of the Basque Country (UPV/EHU). 
+- Basic Programming. Degree in Computer Management and Information Systems Engineering. University of the Basque Country (UPV/EHU).
+- Fundamentals of Computer Science. Degree in Computer Management and Information Systems Engineering. University of the Basque Country (UPV/EHU).
 
-[Natural Language Processing]()
-2024
-Artificial Intelligence Degree.
-University of the Basque Country (UPV/EHU).
+### 2021-2022
+- Basic Programming. Degree in Computer Management and Information Systems Engineering. University of the Basque Country (UPV/EHU).
+- Fundamentals of Computer Science. Degree in Computer Management and Information Systems Engineering. University of the Basque Country (UPV/EHU).
+- Programming Methodology. Degree in Computer Management and Information Systems Engineering. University of the Basque Country (UPV/EHU).
+- Modular and Object Oriented Programming. Degree in Computer Management and Information Systems Engineering. University of the Basque Country (UPV/EHU).
 
-[Text Mining]
-2023-2024
-Artificial Intelligence Degree.
-University of the Basque Country (UPV/EHU).
-
-Deep Learning for NLP
-2019-2024
-Erasmus Mundus Master in Language and Communication Technologies.
-University of the Basque Country (UPV/EHU).
-
-NLP Applications II 
-2021-2024
-Erasmus Mundus Master in Language and Communication Technologies.
-University of the Basque Country (UPV/EHU).
-
-Basic Programming
-2022-2023
-University of the Basque Country (UPV/EHU).
-
-Programing Methodology
-2021-2022
-University of the Basque Country (UPV/EHU).
-
-Object Oriented Programming
-2021-202
-University of the Basque Country (UPV/EHU).
-
-Fundamentals of Computer Science
-2021-2023
-University of the Basque Country (UPV/EHU).
+### 2020-2021
+- Programming Methodology. Degree in Computer Management and Information Systems Engineering. University of the Basque Country (UPV/EHU).
+- Modular and Object Oriented Programming. Degree in Computer Management and Information Systems Engineering. University of the Basque Country (UPV/EHU).
 
 
 ## Postgraduate courses
