@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor of Natural Language Processing in [IXA NLP Group]((http://ixa.eus), part of the [HiTZ Centre](http://www.hitz.eus/en/nlp) of the [University of the Basque Country UPV/EHU](http://www.ehu.eus).
+I am an Assistant Professor of Natural Language Processing in [IXA NLP Group](http://ixa.eus), part of the [HiTZ Centre](http://www.hitz.eus/en/nlp) of the [University of the Basque Country UPV/EHU](http://www.ehu.eus).
 
 My research focuses on creating NLP models for information extraction that are efficient on under-resourced languages and scenarios. This includes investigating cross-lingual methods, weak supervision, multi-task learning as well as prompt learning techniques with Large Language Models. I’m also interested on building multimodal that able to learn grounded representation, and I have done some research on building models for educational motivations such as automatic short answer grading. 
 
