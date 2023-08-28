@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Oier Lopez de Lacalle - Website"
+title                    : "Oier Lopez de Lacalle"
 title_separator          : "-"
 name                     : &name "Oier Lopez de Lacalle"
 description              : &description "Assistant Professor of Natural Language Processing in IXA NLP Group"
