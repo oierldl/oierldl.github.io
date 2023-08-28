@@ -8,8 +8,8 @@ author_profile: true
 ## vSTS: Visual Semantic Textual Similarity
 The vSTS dataset aims to become a standard benchmark to test the contribution of visual information when evaluating the similarity of sentences and the quality of multimodal representations, allowing to test the complementarity of visual and textual information for improved language understanding.
 
-- **website**: [](https://oierldl.github.io/vsts/)
-- **github**: [](https://github.com/oierldl/vsts)
+- **website**: [https://oierldl.github.io/vsts](https://oierldl.github.io/vsts/)
+- **github**: [https://github.com/oierldl/vsts](https://github.com/oierldl/vsts)
 - **paper**: [Evaluating Multimodal Representations on Visual Semantic Textual Similarity](https://www.semanticscholar.org/paper/Evaluating-Multimodal-Representations-on-Visual-Lacalle-Salaberria/b792296bfe5a3b25c5b15d6dd73f5e68314208de)
 
 ## Older resources
