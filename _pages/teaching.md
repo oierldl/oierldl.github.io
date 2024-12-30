@@ -44,7 +44,7 @@ redirect_from:
 
 ### [IKTak eta konpetentzia digitalak irakaskuntzan](https://www.ehu.eus/eu/web/graduondokoak/ikt-konpetentzia-digitalak-hezkuntzan-unibertsitate-espezializazioa)
 
-- 2019-2020: Datuen analisia eta bistaratzea. University of the Basque Country (UPV/EHU)/Udako Euskal Unibertsitatea (UEU)
+- 2019-2020: Datuen analisia eta bistaratzea. University of the Basque Country (UPV/EHU)/Udako Euskal Unibertsitatea (UEU). Erabilitatako materiala [PDF](https://drive.google.com/file/d/1rXCvOCmdSbc2qEuAAun4CmdLS_vwTIlb/view?usp=sharing)
 - 2016-2018: Ikerketari aplikatutako baliabide teknologikoak. University of the Basque Country (UPV/EHU)/Udako Euskal Unibertsitatea (UEU)
 
 ## Seminars
