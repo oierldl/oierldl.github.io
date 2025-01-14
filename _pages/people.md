@@ -16,6 +16,7 @@ author_profile: true
 - Ander Intxaurrondo (2015, Data Scientist at Pragsis Bidoop - Accenture)
 
 ## Master Thesis: 
+- Ekhi Azurmendi. "Euskarazko lehen C1 ebaluatzailea automatikoa". Master of Language Analysis and Processing. 2024
 - Francisco Jose Alguacil. "Measuring LLMs Output: Evaluation Metrics for Retrieval Augmented Generation Systems and Linkhub-eval Framework". Master of Language Analysis and Processing. 2024
 - Anastasiia Chizhikova. "Knowledge Graph Question Answering for Migrant Employment". Master of Language Analysis and Processing. 2024
 - Asier Zubia. “Exploration of Automatic Data Augmentation for Classification of Loss of Separation Reports”. Master of Language Analysis and Processing. 2023
