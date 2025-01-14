@@ -16,6 +16,8 @@ author_profile: true
 - Ander Intxaurrondo (2015, Data Scientist at Pragsis Bidoop - Accenture)
 
 ## Master Thesis: 
+- Francisco Jose Alguacil. "Measuring LLMs Output: Evaluation Metrics for Retrieval Augmented Generation Systems and Linkhub-eval Framework". Master of Language Analysis and Processing. 2024
+- Anastasiia Chizhikova. "Knowledge Graph Question Answering for Migrant Employment". Master of Language Analysis and Processing. 2024
 - Asier Zubia. “Exploration of Automatic Data Augmentation for Classification of Loss of Separation Reports”. Master of Language Analysis and Processing. 2023
 - Irene Baucels. “Entailment for Zero- and Few-Shot Text Classification in Catalan: Monolingual vs. Multilingual Resources and Task Transfer”. Master of Language Analysis and Processing. 2023
 - David Romero. Natural Language Inference Models for Few-Shot Text Classification” (co-supervised with Eneko Agirre). Master of Language Analysis and Processing. 2023
@@ -33,6 +35,11 @@ author_profile: true
 - Ander Intxaurrondo Gonzalez de Langarika. “Relation Extraction. Exploring Distant Supervision to minimize manual annotation” (co-supervised with Eneko Agirre). Master of Language Analysis and Processing. 2012
 
 ## Final Dregee Projects:
+- Markel Ferro. "Comparison of learning-efficiency using PEFT techniques". Artificial Intelligence degree. 2024
+- Oier Ijurco. "A Study of Spatial Commonsense Reasoning in Current Language and Multimodal Models" (co-supervised with Gorka Azkune). Artificial Intelligence degree. 2024
+- Eneko Amor."Inferentzia bisuala Python kode bidezko arrazonamendua eginez". Computer Science degree. 2024
+- Itsaso Lejarza. "Entitateak euskaraz ezagutzeko etiketatze automatikoa urrutiko gainbegiratze-teknikak erabiliz". Artificial Intelligence degree. 2024
+- Telmo Briones. "Zer gertatzen da ikusmen-hizkuntza ereduekin? Ikusmen-hizkuntza ereduen arrazonamendu espazialaren azterketa". Computer Science degree. 2024
 - Ekhi Azurmendi. “Euskarazko laburpen automatikoak egiteko sistema baten garapena eta ebaluazioa” (co-supervised with Mikel Iruskieta). Computer Science degree. 2023
 - Josu Loidi. “Entitateen eta erlazioen erauzketa testu klinikoetan datu etiketatu gutxirekin” (co-supervised with Aitziber Atutxa). Computer Science degree. 2023
 - Mikel Zubillaga. “Hizkuntzen arteko transferentzia analisia Euskarazko Informazio-Erauzketan” (co-supervised with Oscar Sainz). Computer Science degree. 2023
