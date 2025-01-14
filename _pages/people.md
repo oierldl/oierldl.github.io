@@ -6,11 +6,13 @@ author_profile: true
 ---
 
 ## Current PhD Students
-- Oscar Sainz (2020-)
 - Edgar Andres Santamaría (2020-)
 - Julen Etxaniz (2023-)
+- Beñat Arrieta (2023-)
+- Ekhi Azurmendi (2024-)
 
 ## PhD Alumni:
+- Oscar Sainz (2024, Postdoc at HiTZ Center - UPV/EHU)
 - Ander Intxaurrondo (2015, Data Scientist at Pragsis Bidoop - Accenture)
 
 ## Master Thesis: 
@@ -19,10 +21,10 @@ author_profile: true
 - David Romero. Natural Language Inference Models for Few-Shot Text Classification” (co-supervised with Eneko Agirre). Master of Language Analysis and Processing. 2023
 - Julen Etxaniz. “Grounding Language Models for Compositional and Spatial Reasoning” (co-supervised with Aitor Soroa). Master of Language Analysis and Processing. 2022
 - Imanol Martínez. “Objektuen Antzemate Automatikorako datu-multzoen sorkuntza automatikoa” (co-supervised with Gorka Azkune). Master of Language Analysis and Processing. 2022
-- Aner Egaña. “Exploration of aunnotation strategies for entailment-based Automatic Short Answer Grading” (co-supervised with Itziar Aldabe). Master of Language Analysis and Processing. 2022
+- Aner Egaña. “Exploration of annotation strategies for entailment-based Automatic Short Answer Grading” (co-supervised with Itziar Aldabe). Master of Language Analysis and Processing. 2022
 - Maite Urra. “Neural Question Generation” (co-supervised with Javier Bejar). Master of Artificial Intelligence (UPC, URiV, UB). 2021
 - Oscar Sainz. “Hizkuntza anitzeko erlazio semantikoen erauzketa medikuntza domeinuan” (co-supervised with Gorka Labaka). Master of Language Analysis and Processing. 2021
-- Edgar Andrés Santamaría. “End to end approach for i2b2 2012 challenge based on Cross-lingual models” (co-supervised with Aitziber Atutxa). Master of Language Analysis and Processing. 2021
+- Edgar Andrés Santamaría. “End-to-end approach for i2b2 2012 challenge based on Cross-lingual models” (co-supervised with Aitziber Atutxa). Master of Language Analysis and Processing. 2021
 - Ander Salaberria Saizar. “Testu eta irudien arteko antzekotasun semantikoa aztertzen”(co-supervised with Eneko Agirre). Master of Ingeniería Computacional y Sistemas Inteligentes (EHU/UPV). 2019
 - Cristina Aceta Moreno. “Unsupervised Methods to Predict Example Difficulty in Word Sense Disambiguation” (co-supervised with Eneko Agirre and Izaskun Aldezabal). Master of Language Analysis and Processing. 2018
 - Harritxu Gete Ugarte. “Neural Natural Language Generation with Unstructured Contextual Information” (co-supervised with Thierry Etchegoyen). Master of Language Analysis and Processing. 2018
