@@ -53,6 +53,7 @@ redirect_from:
 - 2016-2018: Ikerketari aplikatutako baliabide teknologikoak. University of the Basque Country (UPV/EHU)/Udako Euskal Unibertsitatea (UEU)
 
 ## Seminars
+- 2025: [AA eta EUSKARA: Tresnak eta garapenak](https://docs.google.com/presentation/d/1baluaD1P6OU3f3SmgeXUJlIonmmXDfjW/edit?usp=sharing&ouid=105443807881529369984&rtpof=true&sd=true). Uda Ikastaroa/Curso de Verano: Adimen artifiziala helduen euskalduntzean. Uda Ikastaroa -UIK 2025.
 - 2022: [Introducción a la extracción de información a partir de textos no estructurados](https://en.eustat.eus/mintegia/seminario/2022/text_mining_i.html). Seminario Internacional de Estadística (EUSTAT). Material available in [Google Drive](http://ixa2.si.ehu.eus/~jibloleo/tmeustat).
 
 
