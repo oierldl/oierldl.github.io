@@ -6,9 +6,10 @@ author_profile: true
 ---
 
 ## Current PhD Students
-- Edgar Andres Santamaría (2020-)
-- Julen Etxaniz (2023-)
-- Ekhi Azurmendi (2024-)
+- Edgar Andrés Santamaría (2020-) (co-supervising with Aitziber Atutxa)
+- Julen Etxaniz (2023-) (co-supervising with Mikel Artetxe)
+- Ekhi Azurmendi (2024-) (co-supervising with Xabier Arregi)
+- Markel Ferro (2025-) (co-supervising with Itziar Aldabe)
 
 ## PhD Alumni:
 - Oscar Sainz (2024, Postdoc at HiTZ Center - UPV/EHU)
@@ -20,7 +21,7 @@ author_profile: true
 - Markel Ferro. "Use of LLM Agents for creating an Environment-Situated Dialog System". Master of Language Analysis and Processing. 2025
 - Ignacio Talavera. "Synthetic Data Generation for Sentence-level and Paragraph-level Information Extraction" (co-supervised with Oscar Sainz). Master of Language Analysis and Processing. 2025
 - Ekhi Azurmendi. "Euskarazko lehen C1 ebaluatzailea automatikoa". Master of Language Analysis and Processing. 2024
-- Francisco Jose Alguacil. "Measuring LLMs Output: Evaluation Metrics for Retrieval Augmented Generation Systems and Linkhub-eval Framework". Master of Language Analysis and Processing. 2024
+- Francisco José Alguacil. "Measuring LLMs Output: Evaluation Metrics for Retrieval Augmented Generation Systems and Linkhub-eval Framework". Master of Language Analysis and Processing. 2024
 - Anastasiia Chizhikova. "Knowledge Graph Question Answering for Migrant Employment". Master of Language Analysis and Processing. 2024
 - Asier Zubia. “Exploration of Automatic Data Augmentation for Classification of Loss of Separation Reports”. Master of Language Analysis and Processing. 2023
 - Irene Baucels. “Entailment for Zero- and Few-Shot Text Classification in Catalan: Monolingual vs. Multilingual Resources and Task Transfer”. Master of Language Analysis and Processing. 2023
@@ -35,8 +36,8 @@ author_profile: true
 - Cristina Aceta Moreno. “Unsupervised Methods to Predict Example Difficulty in Word Sense Disambiguation” (co-supervised with Eneko Agirre and Izaskun Aldezabal). Master of Language Analysis and Processing. 2018
 - Harritxu Gete Ugarte. “Neural Natural Language Generation with Unstructured Contextual Information” (co-supervised with Thierry Etchegoyen). Master of Language Analysis and Processing. 2018
 - Francis Damian Perez Sena. “Accommodations Deduplication” (co-supervised with Aitor Soroa). Master of Ingeniería Computacional y Sistemas Inteligentes (EHU/UPV). 2018
-- Jose Dario Jimenez Paute. “Análisis y clasificación de información mediática electoral utilizando minería de texto” (co-supervised with Aitor Soroa). Master of Ingeniería Computacional y Sistemas Inteligentes (EHU/UPV)
-- Ander Intxaurrondo Gonzalez de Langarika. “Relation Extraction. Exploring Distant Supervision to minimize manual annotation” (co-supervised with Eneko Agirre). Master of Language Analysis and Processing. 2012
+- José Darío Jiménez Paute. “Análisis y clasificación de información mediática electoral utilizando minería de texto” (co-supervised with Aitor Soroa). Master of Ingeniería Computacional y Sistemas Inteligentes (EHU/UPV)
+- Ander Intxaurrondo González de Langarika. “Relation Extraction. Exploring Distant Supervision to minimize manual annotation” (co-supervised with Eneko Agirre). Master of Language Analysis and Processing. 2012
 
 ## Final Dregee Projects:
 - Iñigo Vilá. "Evaluación automática de LLMs en entornos virtuales" (co-supervised with Ander Salaberria). Artificial Intelligence degree. 2026
