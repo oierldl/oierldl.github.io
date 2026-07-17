@@ -8,14 +8,17 @@ author_profile: true
 ## Current PhD Students
 - Edgar Andres Santamaría (2020-)
 - Julen Etxaniz (2023-)
-- Beñat Arrieta (2023-)
 - Ekhi Azurmendi (2024-)
 
 ## PhD Alumni:
 - Oscar Sainz (2024, Postdoc at HiTZ Center - UPV/EHU)
 - Ander Intxaurrondo (2015, Data Scientist at Pragsis Bidoop - Accenture)
 
-## Master Thesis: 
+## Master Thesis:
+- Juliana Planas. "Generating Neuropsychological Interpretations from Structured Test Data: A Low-Resource Table-to-Text Study" (co-supervised with Ander Barrena). Master of Language Analysis and Processing. 2026.
+- Oier Ijurco. "Reasoning over Object Descriptions Improves Coreference Resolution in Task-Based Dialogue Systems·. Master of Language Analysis and Processing. 2025
+- Markel Ferro. "Use of LLM Agents for creating an Environment-Situated Dialog System". Master of Language Analysis and Processing. 2025
+- Ignacio Talavera. "Synthetic Data Generation for Sentence-level and Paragraph-level Information Extraction" (co-supervised with Oscar Sainz). Master of Language Analysis and Processing. 2025
 - Ekhi Azurmendi. "Euskarazko lehen C1 ebaluatzailea automatikoa". Master of Language Analysis and Processing. 2024
 - Francisco Jose Alguacil. "Measuring LLMs Output: Evaluation Metrics for Retrieval Augmented Generation Systems and Linkhub-eval Framework". Master of Language Analysis and Processing. 2024
 - Anastasiia Chizhikova. "Knowledge Graph Question Answering for Migrant Employment". Master of Language Analysis and Processing. 2024
@@ -36,7 +39,15 @@ author_profile: true
 - Ander Intxaurrondo Gonzalez de Langarika. “Relation Extraction. Exploring Distant Supervision to minimize manual annotation” (co-supervised with Eneko Agirre). Master of Language Analysis and Processing. 2012
 
 ## Final Dregee Projects:
-- Markel Ferro. "Comparison of learning-efficiency using PEFT techniques". Artificial Intelligence degree. 2024
+- Iñigo Vilá. "Evaluación automática de LLMs en entornos virtuales" (co-supervised with Ander Salaberria). Artificial Intelligence degree. 2026
+- Jiayuan Wang. "Adaptación a dominios específicos de LLMs en la tarea de texto a Cypher" (co-supervised with Ander Salaberria). Artificial Intelligence degree. 2026
+- Unai Gómez. "Estudio y evaluación de un componente RAG integrado en un sistema conversacional basado en agentes de Inteligencia Artificial Generativa". Artificial Intelligence degree. 2026
+- Mikel Larrarte. "Latxari irudiak ulertarazten: Euskarazko hizkuntza ereduak irudietara egokitzea" (co-supervised with Ander Salaberria). Artificial Intelligence degree. 2025
+- Diego Fornies. "Un enfoque de evolución reflexiva de heurísticas multiobjetivo a través de modelos de lenguaje de gran escala". Artificial Intelligence degree. 2025
+- Oier Martínez. "Enfoque de aprendizaje few-shot para la generación de distractores en preguntas educativas de opción múltiple" (co-supervised with Itziar Aldabe). Computer Science degree. 2025
+- Josu Barrutia. "Adaptation of Visual Reasoners Based on Code Generation Through Fine-Tuning and Preference Optimization". Artificial Intelligence degree. 2025
+- Unax Murua. "Conversión de lenguaje natural a consultas SQL mediante LLM pequeños". Artificial Intelligence degree. 2025
+- Markel Ferro. "Comparison of learning efficiency using PEFT techniques". Artificial Intelligence degree. 2024
 - Oier Ijurco. "A Study of Spatial Commonsense Reasoning in Current Language and Multimodal Models" (co-supervised with Gorka Azkune). Artificial Intelligence degree. 2024
 - Eneko Amor."Inferentzia bisuala Python kode bidezko arrazonamendua eginez". Computer Science degree. 2024
 - Itsaso Lejarza. "Entitateak euskaraz ezagutzeko etiketatze automatikoa urrutiko gainbegiratze-teknikak erabiliz". Artificial Intelligence degree. 2024
