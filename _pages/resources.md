@@ -7,8 +7,9 @@ author_profile: true
 
 ## HABE-HiTZ C1 Dataset: A collection of essays, scores, and feedback generation in Basque. 
 HABE-HiTZ C1 dataset is the first publicly available dataset for Automatic Essay Scoring (AES) and feedback generation in Basque, targeting the CEFR C1 proficiency level. The dataset comprises 3,200 essays from [HABE](https://www.habe.euskadi.eus/), each annotated by expert evaluators with criterion-specific scores for correctness, richness, coherence, cohesion, and task alignment, along with detailed feedback and error examples. 
-**dataset**: [https://huggingface.co/datasets/EkhiAzur/HABE-HiTZ_C1_Dataset](https://huggingface.co/datasets/EkhiAzur/HABE-HiTZ_C1_Dataset)
-**paper**: [Automatic Essay Scoring and Feedback Generation in Basque Language Learning](https://lrec.elra.info/lrec2026-main-054)
+
+- **dataset**: [https://huggingface.co/datasets/EkhiAzur/HABE-HiTZ_C1_Dataset](https://huggingface.co/datasets/EkhiAzur/HABE-HiTZ_C1_Dataset)
+- **paper**: [Automatic Essay Scoring and Feedback Generation in Basque Language Learning](https://lrec.elra.info/lrec2026-main-054)
 
 ## MATE: Cross-modal Entity Alignment Dataset
 The **MATE** dataset is designed to serve as an effective benchmark for evaluating the cross-modal entity-linking capabilities of current vision-language models (VLMs). It demonstrates that, while human performance remains consistently high, VLM performance degrades significantly as scene complexity increases, highlighting the challenges that cross-modal entity linking poses for current models.
